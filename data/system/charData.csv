@@ -1,0 +1,11 @@
+index,id,buid,vcid,lastname,middlename,name,order,relate
+0,AME,CA,AME,待雪,,亜芽,4,5
+1,CHITOSE,CB,CTS,葛ノ葉,,チトセ,5,4
+2,KOHAKU,CC,KHK,四葉,,琥珀,2,6
+3,NAYURI,CD,NYR,綾目,,七夕莉,6,3
+4,TOWA,CE,TWA,高城,,冬羽,1,2
+5,KIRI,CF,KRI,待雪,,霧,7,1
+6,SHIO,CG,SHO,水無月,,紫緒,3,7
+7,KANAME,CH,KNM,花山院,,要,8,8
+8,NPC_OTHER,OT,NPC,,,,,
+#以下デバッグ用,,,,,,,,
